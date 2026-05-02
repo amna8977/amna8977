@@ -1,5 +1,5 @@
 #  About Me:
-Hey there! I'm <b> Amna Syed</b>, and I'm a teen who does Arduino, HTML, and LEGO robotics!<br>I made projects for the Congressional App Challenge, Hack Club, and other events<br>
+Hey there! I'm <b> Amna Syed</b>, and I'm a teen who does Arduino, HTML, and LEGO robotics! I do coding and robotics for fun, but I made projects for the Congressional App Challenge, Hack Club, and other events<br>
 
 
 ##  Socials:
