@@ -17,7 +17,3 @@ Hey there! I'm <b> Amna Syed</b>, and I'm a teen who does Arduino, frontend deve
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=amna8977&icon=0&color=0)](https://visitcount.itsvg.in)
-
