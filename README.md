@@ -1,5 +1,5 @@
 #  About Me
-Hey there! I'm <b> Amna Syed</b>, and I'm a teen who does Arduino, frontend development, and game dev.! I do coding and robotics for fun, but I made projects for the Congressional App Challenge, Hack Club's online events, hackathons , and more!<br>
+Hey there! I'm <b> Amna Syed</b>, and I'm a teen who does Arduino, frontend development, robotics, and game dev.! I do coding and robotics for fun, but I've made projects for the Congressional App Challenge, Hack Club's online events, hackathons, and more! I'm currently hosting an event for Hack Club Haven.<br>
 
 
 ##  Socials
